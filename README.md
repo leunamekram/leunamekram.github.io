@@ -1,3 +1,3 @@
 # leunamekram.github.io
 
-- [] Checkbox
+[x] Checkbox
